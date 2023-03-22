@@ -1,6 +1,6 @@
-COVID-19-Cases in The United States vs Worldwide
+COVID-19-Cases in The United States and Territories vs Worldwide
 
-The data being reviewed for this project shows COVID-19 cases worldwide from January 20, 2020 through June 1, 2020. However, this data analysis project does a comparison of positive case in the United States with other countries.
+The data being reviewed for this project shows COVID-19 cases worldwide from January 20, 2020 through June 1, 2020. However, this data analysis project does a comparison of positive case in the United States and Territories with other countries.
 
 The main comparisons are:
 - Positive cases in the US and Worldwide
